@@ -46,7 +46,7 @@ const listOfProducts = [{
     productName: "TV",
     quantity: 10,
     description: "television"
-  },0
+  },
   {
     productName: "AC",
     quantity: 5,
